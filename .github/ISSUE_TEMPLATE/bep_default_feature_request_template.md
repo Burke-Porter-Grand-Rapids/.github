@@ -2,7 +2,7 @@
 name: BEP Template For Feature Request
 about: Generic template used by BEP SE department for requesting features.
 title: ''
-labels: "question"
+labels: "enhancement"
 assignees: ''
 
 ---
@@ -10,7 +10,7 @@ assignees: ''
 ## Description
 Briefly describe the feature here.
 
-## Why this feature benificial?
+## Why this feature beneficial?
 Describe why this feature is important and what it solves/enhances
 
 ## Basic Example
