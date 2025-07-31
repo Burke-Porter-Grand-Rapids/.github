@@ -1,7 +1,7 @@
 ---
 name: BEP Template For Generic Issue
 about: Generic template that used by BEP SE department for reporting issues.
-title: ''
+title: '<area or component>: <short descriptive title>'
 labels: ''
 assignees: ''
 
