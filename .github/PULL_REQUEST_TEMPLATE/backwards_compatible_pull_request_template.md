@@ -1,10 +1,8 @@
 ## Summary
-Briefly describe what this PR does.  Focus on implementation / approach (not details about the problem or feature which are included in the issue)
-
+Briefly describe what this PR does.  What is the purpose of this pull request?
 
 ## Implementation Notes
-Highlight any design decisions, trade-offs, or deviations from the issue
-
+Highlight any important information, design decisions, trade-offs, or deviations from the issue
 
 ## Testing
 
