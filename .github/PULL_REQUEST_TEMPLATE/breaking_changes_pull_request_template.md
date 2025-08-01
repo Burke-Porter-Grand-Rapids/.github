@@ -1,6 +1,5 @@
 ## Summary
-Briefly describe what this PR does.  Focus on implementation / approach (not details about the problem or feature which are included in the issue)
-
+Briefly describe what this PR does.  What is the purpose of this pull request?
 
 ## Rationale
 Explain why the breaking change is justified. Include trade-offs, alternatives considered, and long-term benefits.
@@ -16,7 +15,7 @@ Provide instructions for users to update their code or configuration to be compa
 
 
 ## Implementation Notes
-Highlight any design decisions, trade-offs, or deviations from the issue
+Highlight any important information, design decisions, trade-offs, or deviations from the issue
 
 
 ## Testing
