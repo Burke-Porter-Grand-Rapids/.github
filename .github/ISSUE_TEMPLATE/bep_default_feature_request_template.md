@@ -1,7 +1,7 @@
 ---
 name: BEP Template For Feature Request
 about: Generic template used by BEP SE department for requesting features.
-title: ''
+title: '<area or component>: <short descriptive title>'
 labels: "enhancement"
 assignees: ''
 
