@@ -1,5 +1,22 @@
-## Summary
-Briefly describe what this PR does.  What is the purpose of this pull request?
+<!--
+    🚨 Pull Request Title Format Requirement 🚨
+
+    Please use the following format for your PR title:
+    **Area or Component: Short Descriptive Title**
+
+    If a short description is not possible include Issue#
+
+    _Examples:_
+    ```
+    FrontPanelMenu: Added edit menu item
+    Main Database: Fixed obtaining tests Issue#xxx
+    Production Database: Improved efficiency obtaining sequence information
+    ```
+
+    PRs with incorrectly formatted titles may be blocked by automated checks.
+-->
+## Description
+Briefly summarize what this PR does.  What is the purpose of this pull request?
 
 ## Rationale
 Explain why the breaking change is justified. Include trade-offs, alternatives considered, and long-term benefits.
