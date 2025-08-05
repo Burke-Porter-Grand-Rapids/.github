@@ -1,19 +1,18 @@
 <!--
-    🚨 Pull Request Title Format Requirement 🚨
+    🚨 Title Format Requirement 🚨
 
     Please use the following format for your PR title:
     **Area or Component: Short Descriptive Title**
 
-    If a short description is not possible include Issue#
+    e.g. Production Database: Improved efficiency obtaining sequence information
 
-    _Examples:_
-    ```
-    FrontPanelMenu: Added edit menu item
-    Main Database: Fixed obtaining tests Issue#xxx
-    Production Database: Improved efficiency obtaining sequence information
-    ```
+    🚨 Description Format Requirement 🚨
 
-    PRs with incorrectly formatted titles may be blocked by automated checks.
+    Description must include issue #
+
+    e.g. Closes #123
+    
+    PRs with incorrectly formatted titles or description may be blocked by automated checks.
 -->
 ## Description
 Briefly summarize what this PR does.  What is the purpose of this pull request?
