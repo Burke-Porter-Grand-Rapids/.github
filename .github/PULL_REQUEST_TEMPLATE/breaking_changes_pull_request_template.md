@@ -15,7 +15,7 @@
     PRs with incorrectly formatted titles or description may be blocked by automated checks.
 -->
 ## Description
-Briefly summarize what this PR does.  What is the purpose of this pull request?
+Briefly summarize what this PR does.  What is the purpose of this pull request? Must include issue #
 
 ## Rationale
 Explain why the breaking change is justified. Include trade-offs, alternatives considered, and long-term benefits.
