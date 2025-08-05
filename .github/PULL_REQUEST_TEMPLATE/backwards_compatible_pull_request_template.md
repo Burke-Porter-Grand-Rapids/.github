@@ -15,7 +15,7 @@
     PRs with incorrectly formatted titles or description may be blocked by automated checks.
 -->
 ## Description
-Briefly summarize what this PR does.  What is the purpose of this pull request? Must include issue #
+Briefly summarize what this PR does.  What is the purpose of this pull request?
 
 ## Implementation Notes
 Highlight any important information, design decisions, trade-offs, or deviations from the issue
@@ -29,6 +29,7 @@ If Manually tested, describe the tests ran to verify changes. Provide instructio
 
 ## Checklist
 
+- [ ] Issue # is linked in the pull request text
 - [ ] My Code changes follow the style guidelines of this project
 - [ ] I have performed a self-review of my code
 - [ ] I have commented my code, particularly in hard to understand areas
